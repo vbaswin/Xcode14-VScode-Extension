@@ -1,5 +1,5 @@
 {
-	"name": "Xcode-Default-Light",
+	"name": "Xcode14 Default Light",
 	"colors": {
 		"titleBar.activeBackground": "#625c57",      
             "editorGroupHeader.tabsBackground": "#574f49", 
@@ -35,13 +35,9 @@
 			"titleBar.activeForeground": "#e0dad5",
             "sideBar.border": "#737373",
             "activityBar.border": "#342920",
-			// "dropdown.background": "÷"
 			"editor.lineHighlightBackground": "#ecf5ff",
 			"editorCursor.foreground": "#000000",
-			// "menubar.selectionBorder": "#ff0000",
 			"editorLineNumber.activeForeground": "#000000",
-			// "dropdown.background": "#ff0000"
-			// "menu.background": "#ff0000"
 			"quickInput.background": "#574f49",
 			"editorSuggestWidget.background": "#574f49",
 			"editorSuggestWidget.selectedBackground": "#776f6a",

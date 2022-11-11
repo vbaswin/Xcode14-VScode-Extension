@@ -1,7 +1,7 @@
 {
-  "name": "xcode-default-light",
-  "displayName": "Xcode-Default-Light",
-  "description": "Vscode port of xcode default light theme",
+  "name": "xcode14-default-themes",
+  "displayName": "Xcode14-Default-Themes",
+  "description": "Vscode port of xcode default DARK and LIGHT themes",
   "version": "0.0.1",
   "publisher": "aswinvb",
   "engines": {
@@ -13,10 +13,16 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vbaswin/Xcode-Theme-on-VSCode.git"
+    "url": "https://github.com/vbaswin/Xcode14-VScode-Extension.git"
   },
   "keywords": [
     "theme",
+    "light theme",
+    "dark theme",
+    "light and dark theme",
+    "themes",
+    "Xcode 14",
+    "Xcode 14 default theme",
     "Xcode",
     "Light theme",
     "Xcode14",
@@ -28,9 +34,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Xcode-Default-Light",
+        "label": "Xcode14-Default-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Xcode-Default-Light-color-theme.json"
+        "path": "./themes/Xcode14-Default-Dark.json"
+      },
+      {
+        "label": "Xcode14-Default-Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode14-Default-Light.json"
       }
     ]
   }

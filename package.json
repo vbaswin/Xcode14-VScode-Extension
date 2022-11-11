@@ -1,0 +1,22 @@
+{
+  "name": "xcode-default-light",
+  "displayName": "Xcode-Default-Light",
+  "description": "Vscode port of xcode default light theme",
+  "version": "0.0.1",
+  "publisher": "aswinvb",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode-Default-Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode-Default-Light-color-theme.json"
+      }
+    ]
+  }
+}

@@ -37,7 +37,7 @@
         "label": "Xcode14-Default-Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode14-Default-Dark.json"
-      }
+      },
       {
         "label": "Xcode14-Default-Light",
         "uiTheme": "vs-dark",

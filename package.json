@@ -10,6 +10,21 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vbaswin/Xcode-Theme-on-VSCode.git"
+  },
+  "keywords": [
+    "theme",
+    "Xcode",
+    "Light theme",
+    "Xcode14",
+    "Xcode13",
+    "Xcode-light",
+    "Xcode-default-light",
+    "Xcode-default-light-theme"
+  ],
   "contributes": {
     "themes": [
       {

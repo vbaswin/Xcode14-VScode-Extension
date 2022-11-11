@@ -1,16 +1,9 @@
-# xcode-default-light README
+# xcode-default-light 
 
-## Working with Markdown
+The default Light theme in Xcode is something. Not being able to find Such nice theme,
+I replicated most of it to suit basic programming.
+Hope it helps to other programmers who also like Xcode light theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Will soon be adding the dark theme as well !
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Open to contributions 😁

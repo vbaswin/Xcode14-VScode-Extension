@@ -6,7 +6,7 @@ Hope it helps tother programmers who also like Xcode themes.
 
 This extension consists of both **dark** and **light** mode
 
-<br>
+
 <br>
 
 ## Dark Theme
@@ -14,16 +14,14 @@ This extension consists of both **dark** and **light** mode
 
 ![Dark theme png](/dark.png)<br>
 <br>
-<br>
-<br>
 
 ## Light Theme
 <br>
 
 
 ![Light theme png](/light.png)
-<br>
-<br>
+
+
 <br>
 
 Open to contributions 😁

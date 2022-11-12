@@ -15,7 +15,6 @@
             "list.activeSelectionBackground": "#5398ea",
             "list.inactiveSelectionBackground": "#716b68",
             "list.focusForeground": "#ff0000",
-            "sideBar.foreground": "#ffffff",
             "breadcrumb.background": "#6c5f5b",
             "breadcrumb.focusForeground": "#dfdedd",
             "breadcrumb.foreground": "#dfdedd",
@@ -49,8 +48,12 @@
 			"tree.indentGuidesStroke": "#fbfbfb",
             "foreground": "#000000",
             "editor.selectionBackground": "#b2d7ff",
-            "editor.inactiveSelectionBackground": "#d3d3d3"
+            "editor.inactiveSelectionBackground": "#d3d3d3",
+            "input.background": "#ffffff",
+            "sideBar.foreground": "#ffffff",
+            "editor.foreground": "#000000"
 	},
+
 	"tokenColors": [
 		{
             "scope": [

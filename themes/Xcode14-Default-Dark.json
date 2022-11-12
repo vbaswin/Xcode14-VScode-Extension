@@ -15,7 +15,9 @@
         "quickInput.background": "#302822",
         "dropdown.background": "#302822",
         "activityBar.background": "#342920",
-        "tab.activeBackground": "#335274"
+        "tab.activeBackground": "#335274",
+        "editor.selectionBackground": "#646e83",
+        "editor.inactiveSelectionBackground": "#6e6e6e" 
     },
     "tokenColors": [
         {

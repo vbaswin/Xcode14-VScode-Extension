@@ -46,7 +46,10 @@
 			"editorBracketMatch.border": "#ecf5ff",
 			"tree.tableOddRowsBackground": "#ff0000",
 			"list.hoverBackground": "#7f7f7f",
-			"tree.indentGuidesStroke": "#fbfbfb"
+			"tree.indentGuidesStroke": "#fbfbfb",
+            "foreground": "#000000",
+            "editor.selectionBackground": "#b2d7ff",
+            "editor.inactiveSelectionBackground": "#d3d3d3"
 	},
 	"tokenColors": [
 		{

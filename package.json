@@ -2,7 +2,7 @@
   "name": "xcode14-default-themes",
   "displayName": "Xcode14-Default-Themes",
   "description": "Vscode port of xcode default DARK and LIGHT themes",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "aswinvb",
   "license": "MIT",
   "engines": {

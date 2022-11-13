@@ -17,7 +17,9 @@
         "activityBar.background": "#342920",
         "tab.activeBackground": "#335274",
         "editor.selectionBackground": "#646e83",
-        "editor.inactiveSelectionBackground": "#6e6e6e" 
+        "editor.inactiveSelectionBackground": "#6e6e6e",
+        "list.activeSelectionBackground": "#1d6dc6",
+        "list.inactiveSelectionBackground": "#4c4645"
     },
     "tokenColors": [
         {

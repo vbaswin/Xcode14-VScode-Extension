@@ -30,7 +30,8 @@
     "Xcode13",
     "Xcode-light",
     "Xcode-default-light",
-    "Xcode-default-light-theme"
+    "Xcode-default-light-theme",
+    "Aswin V B"
   ],
   "contributes": {
     "themes": [
@@ -41,7 +42,7 @@
       },
       {
         "label": "Xcode14-Default-Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Xcode14-Default-Light.json"
       }
     ]

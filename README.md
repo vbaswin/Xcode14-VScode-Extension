@@ -51,6 +51,32 @@ This extension consists of both **dark** and **light** mode
 
 <br>
 <hr>
+<br>
+
+## Modify theme
+<br>
+
+###  To remove scroll bars (both horizontal and vertical) and always show minimap slider 
+<br>
+
+- Copy the code below
+
+    ```
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.showSlider": "always",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    ```
+
+- Open command palette using <br>
+    `ctrl + shift + p` &nbsp; &nbsp; in WINDOWS<br>
+    `cmd + shift + p`  &nbsp; &nbsp;in MAC
+- Search for 'Open User Settings (JSON)`
+- Paste the copied code inside below any line inside (don't go outside the parent {} brackets)
+
+<br>
+<hr>
 
 # Repo
 

@@ -14,7 +14,9 @@
         "titleBar.activeBackground": "#fdf8f4",
         "editorSuggestWidget.selectedBackground": "#59a2ff",
         "editorSuggestWidget.focusHighlightForeground": "#ffffff",
-        "list.activeSelectionBackground": "#4b9afe"
+        "list.activeSelectionBackground": "#4b9afe",
+        "editorLineNumber.activeForeground": "#232425",
+        "editorLineNumber.foreground": "#a5a5a5"
     },
 	"tokenColors": [
 		{

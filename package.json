@@ -4,6 +4,7 @@
   "description": "Vscode port of xcode default DARK and LIGHT themes",
   "version": "1.4.0",
   "publisher": "aswinvb",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
   },

@@ -40,7 +40,7 @@
       },
       {
         "label": "Xcode14-Default-Light",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Xcode14-Default-Light.json"
       }
     ]

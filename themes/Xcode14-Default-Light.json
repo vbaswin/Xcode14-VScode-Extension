@@ -17,7 +17,8 @@
         "list.activeSelectionBackground": "#4b9afe",
         "editorLineNumber.activeForeground": "#232425",
         "editorLineNumber.foreground": "#a5a5a5",
-        "list.hoverBackground": "#e4e6f1"        
+        "list.hoverBackground": "#e4e6f1",        
+        "editor.lineHighlightBackground": "#ecf5ff"
     },
 	"tokenColors": [
 		{

@@ -9,7 +9,6 @@ This extension consists of both **dark** and **light** mode
 
 <hr>
 
-<br>
 
 ## Dark Theme
 <br>

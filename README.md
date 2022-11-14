@@ -1,8 +1,10 @@
 # **Xcode14 Default themes** &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbaswin/Xcode14-VScode-Extension)
 <br>
-The default themes in Xcode14 is something. Not being able to find Such nice themes,
-I was able to replicate most of it.
-Hope it helps other programmers who also like Xcode themes.
+
+_The default themes in Xcode14 is __something...___  
+I was not able to find themes that could rival it in vscode marketplace.  
+Hence I created my own. It is identical to default themes in xcode.  
+Hope it helps other programmers who also like Xcode themes.    
 
 This extension consists of both **dark** and **light** mode
 
@@ -91,7 +93,7 @@ This extension consists of both **dark** and **light** mode
 - Place them in [settings.json](#find-settingsjson-file) file.
 
 
-- Paste the copied code inside below any line inside (don't go outside the parent {} brackets)
+
 
 <br>
 <hr>
@@ -102,7 +104,9 @@ This extension consists of both **dark** and **light** mode
 - Open command palette using <br>
     `ctrl + shift + p` &nbsp; &nbsp; in WINDOWS<br>
     `cmd + shift + p`  &nbsp; &nbsp;in MAC
-- Search for 'Open User Settings (JSON)`
+- Search for 'Open User Settings (JSON)`  
+
+- Paste the copied code inside below any line (don't go outside the parent {} brackets)
 
 <br>
 

@@ -31,23 +31,18 @@ This extension consists of both **dark** and **light** mode
 
 
 <hr>
-<br>
 
 # **Install instructions**
 <br>
 
 ### **1. Through Extensions**
-<br>
 
 - Open extensions in the activity bar 
 - Search for Xcode14-Default theme
 - Click install
 - Select the required color scheme (dark or light)
 
-
-
 ### **2. Directly through market place** 
-<br>
 
 - Go to https://marketplace.visualstudio.com/items?itemName=AswinVB.xcode14-default-themes
 - Click install
@@ -58,7 +53,6 @@ This extension consists of both **dark** and **light** mode
 
 <br>
 <hr>
-<br>
 
 ## **Preferred setting**
 <br>

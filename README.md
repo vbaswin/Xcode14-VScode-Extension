@@ -12,9 +12,9 @@ This extension consists of both **dark** and **light** mode
 
 - [ScreenShots](#dark-theme)
 - [Installation](#install-instructions)
-- [Preferred setting](#preferred-setting)
+- [Preferred settings](#preferred-settings)
+- [Override color Scheme](#override-color-scheme)
 - [Repo link](#repo)
-
 
 <hr>
 
@@ -56,12 +56,13 @@ This extension consists of both **dark** and **light** mode
 <br>
 <hr>
 
-## **Preferred setting**
+## **Preferred settings**
 <br>
 
 - Xcode uses SF Mono Medium as the primary font 
 - If not present in your system install from https://developer.apple.com/fonts/
-- So it is preferred to put these in the [settings.json](#find-settingsjson-file) 
+- Copy the corresponding code depending on light or dark theme  
+<br>
 
 - for **Light Theme**
 ```
@@ -73,6 +74,18 @@ This extension consists of both **dark** and **light** mode
 ```
 "editor.fontFamily": "SFMono-Medium",
 ``` 
+
+<br>
+
+- Bracket pair colorization is not present in XCode  
+- To disable it copy the code below
+
+```
+"editor.bracketPairColorization.enabled": false, 
+```
+<br>
+
+- Place the copied code in [settings.json](#find-settingsjson-file) File
 <hr>
 
 
@@ -93,9 +106,6 @@ This extension consists of both **dark** and **light** mode
     ```
 - Place them in [settings.json](#find-settingsjson-file) file.
 
-
-
-
 <br>
 <hr>
 
@@ -103,8 +113,8 @@ This extension consists of both **dark** and **light** mode
 <br>
 
 - Open command palette using <br>
-    `ctrl + shift + p` &nbsp; &nbsp; in WINDOWS<br>
-    `cmd + shift + p`  &nbsp; &nbsp;in MAC
+    ```ctrl + shift + p``` &nbsp; &nbsp; in WINDOWS<br>
+    ```cmd + shift + p```  &nbsp; &nbsp;in MAC
 - Search for 'Open User Settings (JSON)`  
 
 - Paste the copied code inside below any line (don't go outside the parent {} brackets)

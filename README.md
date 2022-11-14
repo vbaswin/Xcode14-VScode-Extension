@@ -60,6 +60,7 @@ This extension consists of both **dark** and **light** mode
 <br>
 
 - Xcode uses SF Mono Medium as the primary font 
+- If not present in your system install from https://developer.apple.com/fonts/
 - So it is preferred to put these in the [settings.json](#find-settingsjson-file) 
 
 - for **Light Theme**

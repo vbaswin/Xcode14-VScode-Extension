@@ -1,22 +1,29 @@
-# Xcode14 Default themes &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbaswin/Xcode14-VScode-Extension)
+# **Xcode14 Default themes** &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbaswin/Xcode14-VScode-Extension)
 <br>
 The default themes in Xcode14 is something. Not being able to find Such nice themes,
 I was able to replicate most of it.
-Hope it helps tother programmers who also like Xcode themes.
+Hope it helps other programmers who also like Xcode themes.
 
 This extension consists of both **dark** and **light** mode
+
+#### **Contents**
+
+- [ScreenShots](#dark-theme)
+- [Installation](#install-instructions)
+- [Preferred setting](#preferred-setting)
+- [Repo link](#repo)
 
 
 <hr>
 
 
-## Dark Theme
+## **Dark Theme**
 <br>
 
 ![Dark theme png](/dark.png)<br>
 <br>
 
-## Light Theme
+## **Light Theme**
 <br>
 
 
@@ -26,10 +33,10 @@ This extension consists of both **dark** and **light** mode
 <hr>
 <br>
 
-# Install instructions
+# **Install instructions**
 <br>
 
-### 1. Through Extensions
+### **1. Through Extensions**
 <br>
 
 - Open extensions in the activity bar 
@@ -39,7 +46,7 @@ This extension consists of both **dark** and **light** mode
 
 
 
-### 2. Directly through market place 
+### **2. Directly through market place** 
 <br>
 
 - Go to https://marketplace.visualstudio.com/items?itemName=AswinVB.xcode14-default-themes
@@ -53,10 +60,29 @@ This extension consists of both **dark** and **light** mode
 <hr>
 <br>
 
-## Modify theme
+## **Preferred setting**
 <br>
 
-###  To remove scroll bars (both horizontal and vertical) and always show minimap slider 
+- Xcode uses SF Mono Medium as the primary font 
+- So it is preferred to put these in the [settings.json](#find-settingsjson-file) 
+
+- for **Light Theme**
+```
+"editor.fontFamily": "SFMono-Regular",
+``` 
+<br>
+
+- for **Dark Theme**
+```
+"editor.fontFamily": "SFMono-Medium",
+``` 
+<hr>
+
+
+## **Override Color Scheme**
+<br>
+
+###  **To remove scroll bars (both horizontal and vertical) and always show minimap slider**
 <br>
 
 - Copy the code below
@@ -68,14 +94,25 @@ This extension consists of both **dark** and **light** mode
     "editor.scrollbar.verticalScrollbarSize": 0,
     "editor.scrollbar.horizontalScrollbarSize": 0,
     ```
+- Place them in [settings.json](#find-settingsjson-file) file.
+
+
+- Paste the copied code inside below any line inside (don't go outside the parent {} brackets)
+
+<br>
+<hr>
+
+## **Find settings.json file**
+<br>
 
 - Open command palette using <br>
     `ctrl + shift + p` &nbsp; &nbsp; in WINDOWS<br>
     `cmd + shift + p`  &nbsp; &nbsp;in MAC
 - Search for 'Open User Settings (JSON)`
-- Paste the copied code inside below any line inside (don't go outside the parent {} brackets)
 
 <br>
+
+
 <hr>
 
 # Repo

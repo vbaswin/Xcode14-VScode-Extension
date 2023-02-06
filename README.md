@@ -66,13 +66,13 @@ This extension consists of both **dark** and **light** mode
 
 - for **Light Theme**
 ```
-"editor.fontFamily": "SFMono-Regular",
+"editor.fontFamily": "SF Mono, Regular",
 ``` 
 <br>
 
 - for **Dark Theme**
 ```
-"editor.fontFamily": "SFMono-Medium",
+"editor.fontFamily": "SF Mono, Medium",
 ``` 
 
 <br>

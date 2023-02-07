@@ -1,10 +1,10 @@
 # **Xcode14 Default themes** &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbaswin/Xcode14-VScode-Extension)
 <br>
 
-_The default themes in Xcode14 is __something...___  
-I was not able to find themes that could rival it in vscode marketplace.  
-Hence I created my own. It is identical to default themes in xcode.  
-Hope it helps other programmers who also like Xcode themes.    
+_The default themes in Xcode14 is __something...___
+I was not able to find themes that could rival it in vscode marketplace.
+Hence I created my own. It is identical to default themes in xcode.
+Hope it helps other programmers who also like Xcode themes.
 
 This extension consists of both **dark** and **light** mode
 
@@ -39,17 +39,17 @@ This extension consists of both **dark** and **light** mode
 
 ### **1. Through Extensions**
 
-- Open extensions in the activity bar 
+- Open extensions in the activity bar
 - Search for Xcode14-Default theme
 - Click install
 - Select the required color scheme (dark or light)
 
-### **2. Directly through market place** 
+### **2. Directly through market place**
 
 - Go to https://marketplace.visualstudio.com/items?itemName=AswinVB.xcode14-default-themes
 - Click install
 - You will be redirected to VSCode automatically
-- Click install 
+- Click install
 - Select the color scheme (dark or light)
 
 
@@ -59,29 +59,52 @@ This extension consists of both **dark** and **light** mode
 ## **Preferred settings**
 <br>
 
-- Xcode uses SF Mono Medium as the primary font 
+- Xcode uses SF Mono Medium as the primary font
 - If not present in your system install from https://developer.apple.com/fonts/
-- Copy the corresponding code depending on light or dark theme  
+- Copy the corresponding code depending on light or dark theme
+<br>
 <br>
 
 - for **Light Theme**
+
+
 ```
 "editor.fontFamily": "SFMono-Regular",
-``` 
+```
 <br>
 
 - for **Dark Theme**
 ```
 "editor.fontFamily": "SFMono-Medium",
-``` 
+```
+<br>
+
+- For os other than MAC, the fonts can be downloaded from other sources like https://github.com/supercomputra/SF-Mono-Font
+- Refer the docs or check the family name format while installing
+- For the fonts intalled via above source, below config works
+<br>
+<br>
+
+- for **Light Theme**
+
+```
+"editor.fontFamily": "SF Mono, Regular",
+```
 
 <br>
 
-- Bracket pair colorization is not present in XCode  
+- for **Dark Theme**
+```
+"editor.fontFamily": "SF Mono, Medium",
+```
+
+<br>
+
+- BRACKET PAIR COLORISATIZATION is not present in XCode
 - To disable it copy the code below
 
 ```
-"editor.bracketPairColorization.enabled": false, 
+"editor.bracketPairColorization.enabled": false,
 ```
 <br>
 
@@ -115,7 +138,7 @@ This extension consists of both **dark** and **light** mode
 - Open command palette using <br>
     ```ctrl + shift + p``` &nbsp; &nbsp; in WINDOWS<br>
     ```cmd + shift + p```  &nbsp; &nbsp;in MAC
-- Search for 'Open User Settings (JSON)`  
+- Search for 'Open User Settings (JSON)`
 
 - Paste the copied code inside below any line (don't go outside the parent {} brackets)
 
